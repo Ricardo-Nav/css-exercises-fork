@@ -1,0 +1,15 @@
+.impar{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 186, 186);
+}
+.big{
+    font-size: 24px;
+}
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+#green{
+    background-color: rgb(171, 255, 171);
+    font-weight: bold;
+}
